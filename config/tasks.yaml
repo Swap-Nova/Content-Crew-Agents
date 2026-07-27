@@ -1,0 +1,33 @@
+research_task:
+  description: >
+    Research the latest developments in {topic}.
+
+    Focus on:
+    - Emerging trends
+    - Market opportunities
+    - Industry adoption
+    - Benefits and challenges
+    - Future outlook
+
+    Gather recent information and provide a balanced analysis.
+
+  expected_output: >
+    A detailed research report consisting of at least
+    3 paragraphs covering key trends, opportunities,
+    risks, and future potential in {topic}.
+
+write_task:
+  description: >
+    Using the research findings, write an engaging
+    markdown article about {topic}.
+
+    Requirements:
+    - Include a title
+    - Add an introduction
+    - Explain key trends
+    - Discuss industry impact
+    - End with a conclusion
+
+  expected_output: >
+    A professional markdown article with a title and
+    4-5 well-structured sections.
